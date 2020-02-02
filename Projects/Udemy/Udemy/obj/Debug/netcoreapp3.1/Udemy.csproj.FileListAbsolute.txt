@@ -1,0 +1,15 @@
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy.deps.json
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy.runtimeconfig.json
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy.runtimeconfig.dev.json
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy.dll
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Udemy.pdb
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/tomhester/Projects/Udemy/Udemy/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.csprojAssemblyReference.cache
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.AssemblyInfoInputs.cache
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.AssemblyInfo.cs
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.csproj.CopyComplete
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.dll
+/Users/tomhester/Projects/Udemy/Udemy/obj/Debug/netcoreapp3.1/Udemy.pdb
